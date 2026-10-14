@@ -1,4 +1,4 @@
-- **ObservatorAI** — документация, код и прод моих проектов в одном окне
+- **ObservatorAI** — документация, код и прод проектов в одном окне
 - **TL;DR** — лента новостей про нейросети для iPhone
 
 <img src="assets/stack.svg" alt="TypeScript, Python, React, Next.js, Tailwind, Electron, Node.js, FastAPI, SQLite, PostgreSQL, Docker, Ubuntu" />
